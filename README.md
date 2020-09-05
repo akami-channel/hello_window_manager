@@ -8,3 +8,6 @@ http://mech.math.msu.su/~nap/2/GWindow/xintro.html
 Next I will look at this source, look for other general information / examples of simple window managers, and look in more depth at the source code of dwm.
 https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
 
+This guide to X11 programming may also be of use:
+https://tronche.com/gui/x/xlib/display/opening.html
+
